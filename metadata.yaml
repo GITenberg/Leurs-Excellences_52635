@@ -1,0 +1,38 @@
+_repo: Leurs-Excellences_52635
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Morel-Retz, Louis Pierre Gabriel Bernard
+    aliases:
+    - Morel-Retz, Louis Pierre
+    - Morel-Retz, Pierre Gabriel Bernard Louis
+    - Stop
+    birthdate: 1825
+    deathdate: 1899
+    gutenberg_agent_id: '46971'
+    url: http://www.gutenberg.org/2009/agents/46971
+creator:
+  author:
+    agent_name: Puliga, Henrietta de Quigini
+    birthdate: 1847
+    deathdate: 1938
+    gutenberg_agent_id: '46970'
+    url: http://www.gutenberg.org/2009/agents/46970
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- FR Humour
+gutenberg_issued: '2016-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52635'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- GITenberg
+title: Leurs Excellences
+url: http://www.gutenberg.org/ebooks/52635
